@@ -6,15 +6,12 @@ name:
   given: Chenggang
   family: Rong
   alternate: '荣成刚'
-  pronunciation: ''
-  pronouns: he/him
 postnominals: []
-status:
-  icon: "🎓"
 role: 硕士研究生
 bio: |
-  目前正在西北工业大学攻读硕士研究生学位，研究方向为多模态大模型、人群计数和计算机视觉。
-  欢迎交流！
+  西北工业大学
+  
+  Email: rongcg5620@mail.nwpu.edu.cn
 
 affiliations:
   - name: 西北工业大学
@@ -23,35 +20,14 @@ affiliations:
 links:
   - icon: at-symbol
     url: mailto:rongcg5620@mail.nwpu.edu.cn
-    label: E-mail Me
+    label: Email
 
 interests:
   - 多模态大模型
   - 人群计数
   - 计算机视觉
-  - 深度学习
 
 education:
   - degree: 硕士研究生
     institution: 西北工业大学
     start: 2023-09-01
-    summary: |
-      研究方向：多模态大模型、人群计数、计算机视觉
-
-skills:
-  - name: 技术能力
-    items:
-      - label: Python
-        level: 4
-      - label: PyTorch
-        level: 4
-      - label: 计算机视觉
-        level: 4
-
-languages:
-  - name: 中文
-    level: 5
-    label: 母语
-  - name: English
-    level: 4
-    label: 熟练
